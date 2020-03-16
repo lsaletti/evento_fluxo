@@ -1,0 +1,18 @@
+version: '2'
+services:
+    banco:
+      build: .
+      ports: 
+        - "5432:5432"
+      container_name: containerbd
+    flask:
+      build: API/app/.
+      container_name: flask
+      restart: always
+      ports:
+        - "5003:5003"
+      links: 
+        - banco:banco
+      depends_on: 
+        - banco
+     

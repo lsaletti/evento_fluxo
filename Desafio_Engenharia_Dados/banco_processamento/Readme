@@ -1,0 +1,4 @@
+Nesse diretorio temos o script de processsamento(processsamento.py) outro de inserção 
+chamado conect_db.py. Também temos um script .sh(process_insert) utilizado para executar os scripts
+de processamento e inserção dentro do container. E também o script .sql, para construção das tabelas
+no postgres.
