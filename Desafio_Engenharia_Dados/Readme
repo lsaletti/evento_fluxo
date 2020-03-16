@@ -1,2 +1,0 @@
-Nesse Arquivo contém um dockerfile responsavel pela construção da imagem do postgres
-um docker-compose responsavel por subir o postgres e o flask juntos e linka-los.
