@@ -1,5 +1,5 @@
 ## *** Evento de Fluxo***
-O Projeto tem como objetivo de calcular e disponibilizar o fluxo de pessoas.
+O Projeto tem como objetivo de calcular e disponibilizar o evento de fluxo por concorrentes.
 
 ----------
 
